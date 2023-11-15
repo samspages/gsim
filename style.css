@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#usageText {
+  position: fixed;
+  font-size: 22px;
+  top: 50px;
+  left: 25%;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#gravRange {
+  position: fixed;
+  top: 125px;
+  left: 25%;
+}
